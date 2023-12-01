@@ -10,7 +10,7 @@ title {
     font-size: 24px;
     font-weight: bold;
 }
-th, td {
+table, th, td {
     padding: 10px;
 }
 th {
