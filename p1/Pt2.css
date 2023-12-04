@@ -36,6 +36,69 @@ p {
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-div#cabecera {
-    
+div#title {
+    color: white;
+    display: grid;
+    grid-template-columns: auto;
+    margin: auto;
+    max-width:max-content;
+    height: fit-content;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#img {
+    margin-top: auto;
+    margin-bottom: 0%;
+}
+span#uno {
+    text-align: left;
+    font-size: medium;
+}
+span#dos {
+    text-align: center;
+    line-height: normal;
+}
+span#tres {
+    text-align: right;
+    text-decoration: underline;
+}
+.profe {
+    float: left;
+}
+.aula {
+    font-style: italic;
+    float: right;
+}
+.modulo {
+    text-decoration: underline;
+    font-weight: bold;
+}
+.descanso {
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 45px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hora {
+    text-align: center;
+    background-color: slategrey;
+    font-family: cursive;
+}
+.m04 {
+    background-color: brown;
+}
+.m08 {
+    background-color: violet;
+}
+.m07 {
+    background-color: tomato;
+}
+.m06 {
+    background-color: blue;
+}
+.tutoria {
+    background-color: aquamarine;
+}
+.m12 {
+    background-color: teal;
 }
