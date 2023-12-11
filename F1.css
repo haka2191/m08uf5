@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-style: italic;
+}
+form{
+    width: 50px;
+    margin: auto;
+    background-color: darkslategrey;
+    line-height: 30px;
+}
+input{
+    border-style: solid;
+    outline: auto;
+}
+.f1{
+    width: 20px;
+    height: 20px;
+    accent-color: green;
+}
+.f2{
+    width: 20px;
+    height: 20px;
+    accent-color: red;
+}
+.f3{
+    width: 20px;
+    height: 20px;
+    accent-color: blue;
+}
+.f4{
+    width: 20px;
+    height: 20px;
+    accent-color: yellow;
+}
