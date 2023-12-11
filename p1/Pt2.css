@@ -1,11 +1,6 @@
 body{
     font-family: sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-table, th, td {
-    border: 3px;
-    border-collapse: collapse;
-    border-color: black;
-}
 table {
     margin: auto;
     padding: 3px;
