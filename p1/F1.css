@@ -11,14 +11,14 @@ input{
     outline: auto;
 }
 #f1{
-    accent-color: green;
+    background-color: green;
 }
 #f2{
-    accent-color: red;
+    background-color: red;
 }
 #f3{
-    accent-color: blue;
+    background-color: blue;
 }
 #f4{
-    accent-color: yellow;
+    background-color: yellow;
 }
