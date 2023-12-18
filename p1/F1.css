@@ -14,7 +14,7 @@ input{
     border-style: solid;
     outline: auto;
 }
-.f1{
+#f1{
     width: 20px;
     height: 20px;
     accent-color: green;
