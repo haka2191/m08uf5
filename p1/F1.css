@@ -12,21 +12,21 @@ input{
 }
 #f1{
     width: 100px;
-    height: 50px;
+    height: 100px;
     accent-color: green;
 }
 #f2{
     width: 100px;
-    height: 50px;
+    height: 100px;
     accent-color: red;
 }
 #f3{
     width: 100px;
-    height: 50px;
+    height: 100px;
     accent-color: blue;
 }
 #f4{
     width: 100px;
-    height: 50px;
+    height: 100px;
     accent-color: yellow;
 }
