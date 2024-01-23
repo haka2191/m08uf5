@@ -9,8 +9,7 @@ body {
 header {
     background-image: url(fondo1.jpg);
     background-size: cover;
-    padding: 20px;
-    text-align: center;
+    align-items: center;
     display: flex;
     justify-content: space-between;
 }
@@ -77,4 +76,9 @@ footer {
     align-items: center;
     justify-content: center;
     padding: 20px;
+    background-color: bisque;
+}
+image {
+    width: 25px;
+    size: 25px;
 }
